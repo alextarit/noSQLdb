@@ -1,0 +1,2661 @@
+[
+    {
+        "river": "Амазонка",
+        "length": 7100,
+        "poolArea": 6915000,
+        "waterConsumption": 219000,
+        "pool": {
+            "pool1": "Атлантический океан"
+        },
+        "countries": {
+            "country1": "Бразилия",
+            "country2": "Перу",
+            "country3": "Боливия",
+            "country4": "Колумбия",
+            "country5": "Эквадор",
+            "country6": "Венесуэла",
+            "country7": "Гайана"
+        }
+    },
+    {
+        "river": "Нил",
+        "length": 6670,
+        "poolArea": 3349000,
+        "waterConsumption": 5100,
+        "pool": {
+            "pool1": "Средиземное море"
+        },
+        "countries": {
+            "country1": "Бурунди",
+            "country2": "Египет",
+            "country3": "Кения",
+            "country4": "Конго",
+            "country5": "Руанда",
+            "country6": "Судан",
+            "country7": "Южный Судан",
+            "country8": "Танзания",
+            "country9": "Уганда",
+            "country10": "Эритрея",
+            "country11": "Эфиопия"
+        }
+    },
+    {
+        "river": "Миссисипи — Миссури",
+        "length": 6420,
+        "poolArea": 2980000,
+        "waterConsumption": 16200,
+        "pool": {
+            "pool1": "Мексиканский залив"
+        },
+        "countries": {
+            "country1": "США",
+            "country2": "Канада"
+        }
+    },
+    {
+        "river": "Янцзы",
+        "length": 6300,
+        "poolArea": 1800000,
+        "waterConsumption": 31900,
+        "pool": {
+            "pool1": "Восточно-Китайское море"
+        },
+        "countries": {
+            "country1": "КНР"
+        }
+    },
+    {
+        "river": "Хуанхэ",
+        "length": 5500,
+        "poolArea": 745000,
+        "waterConsumption": 2110,
+        "pool": {
+            "pool1": "Бохайский залив"
+        },
+        "countries": {
+            "country1": "КНР"
+        }
+    },
+    {
+        "river": "Обь — Иртыш",
+        "length": 5410,
+        "poolArea": 2990000,
+        "waterConsumption": 12800,
+        "pool": {
+            "pool1": "Обская губа"
+        },
+        "countries": {
+            "country1": "Россия",
+            "country2": "Казахстан",
+            "country3": "КНР"
+        }
+    },
+    {
+        "river": "Енисей",
+        "length": 5238,
+        "poolArea": 2580000,
+        "waterConsumption": 18600,
+        "pool": {
+            "pool1": "Карское море"
+        },
+        "countries": {
+            "country1": "Россия",
+            "country2": "Монголия"
+        }
+    },
+    {
+        "river": "Лена",
+        "length": 5100,
+        "poolArea": 2490000,
+        "waterConsumption": 17100,
+        "pool": {
+            "pool1": "море Лаптевых"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Амур — Аргунь",
+        "length": 5052,
+        "poolArea": 1855000,
+        "waterConsumption": 11400,
+        "pool": {
+            "pool1": "Японское море или Охотское море"
+        },
+        "countries": {
+            "country1": "Россия",
+            "country2": "КНР",
+            "country3": "Монголия"
+        }
+    },
+    {
+        "river": "Ла-Плата — Парана",
+        "length": 4800,
+        "poolArea": 3100000,
+        "waterConsumption": 25700,
+        "pool": {
+            "pool1": "Атлантический океан"
+        },
+        "countries": {
+            "country1": "Бразилия",
+            "country2": "Аргентина",
+            "country3": "Парагвай",
+            "country4": "Боливия",
+            "country5": "Уругвай"
+        }
+    },
+    {
+        "river": "Конго — Луалаба — Лувуа — Луапула — Чамбеши",
+        "length": 4700,
+        "poolArea": 3680000,
+        "waterConsumption": 41800,
+        "pool": {
+            "pool1": "Атлантический океан"
+        },
+        "countries": {
+            "country1": "ДРК",
+            "country2": "ЦАР",
+            "country3": "Ангола",
+            "country4": "Республика Конго",
+            "country5": "Танзания",
+            "country6": "Камерун",
+            "country7": "Замбия",
+            "country8": "Бурунди",
+            "country9": "Руанда"
+        }
+    },
+    {
+        "river": "Меконг",
+        "length": 4500,
+        "poolArea": 810000,
+        "waterConsumption": 16000,
+        "pool": {
+            "pool1": "Южно-Китайское море"
+        },
+        "countries": {
+            "country1": "Вьетнам",
+            "country2": "Камбоджа",
+            "country3": "Лаос",
+            "country4": "Таиланд",
+            "country5": "Мьянма",
+            "country6": "КНР"
+        }
+    },
+    {
+        "river": "Нигер",
+        "length": 4350,
+        "poolArea": 2090000,
+        "waterConsumption": 9570,
+        "pool": {
+            "pool1": "Гвинейский залив"
+        },
+        "countries": {
+            "country1": "Нигерия",
+            "country2": "Мали",
+            "country3": "Нигер",
+            "country4": "Алжир",
+            "country5": "Гвинея",
+            "country6": "Камерун",
+            "country7": "Буркина-Фасо",
+            "country8": "Кот-д’Ивуар",
+            "country9": "Бенин",
+            "country10": "Чад"
+        }
+    },
+    {
+        "river": "Маккензи — Невольничья — Пис — Финлей",
+        "length": 4241,
+        "poolArea": 1790000,
+        "waterConsumption": 10300,
+        "pool": {
+            "pool1": "море Бофорта"
+        },
+        "countries": {
+            "country1": "Канада"
+        }
+    },
+    {
+        "river": "Волга",
+        "length": 3731,
+        "poolArea": 1380000,
+        "waterConsumption": 8080,
+        "pool": {
+            "pool1": "Каспийское море"
+        },
+        "countries": {
+            "country1": "Россия",
+            "country2": "Казахстан"
+        }
+    },
+    {
+        "river": "Юкон",
+        "length": 3700,
+        "poolArea": 850000,
+        "waterConsumption": 6210,
+        "pool": {
+            "pool1": "Берингово море"
+        },
+        "countries": {
+            "country1": "США",
+            "country2": "Канада"
+        }
+    },
+    {
+        "river": "Арагуая — Токантинс",
+        "length": 3650,
+        "poolArea": 1400000,
+        "waterConsumption": 13598,
+        "pool": {
+            "pool1": "Амазонка"
+        },
+        "countries": {
+            "country1": "Бразилия"
+        }
+    },
+    {
+        "river": "Шатт-эль-Араб — Евфрат — Мурат",
+        "length": 3600,
+        "poolArea": 884000,
+        "waterConsumption": 856,
+        "pool": {
+            "pool1": "Персидский залив"
+        },
+        "countries": {
+            "country1": "Ирак",
+            "country2": "Турция",
+            "country3": "Иран",
+            "country4": "Сирия"
+        }
+    },
+    {
+        "river": "Муррей — Дарлинг",
+        "length": 3490,
+        "poolArea": 1061000,
+        "waterConsumption": 767,
+        "pool": {
+            "pool1": "Южный океан"
+        },
+        "countries": {
+            "country1": "Австралия"
+        }
+    },
+    {
+        "river": "Пурус",
+        "length": 3379,
+        "poolArea": 63166,
+        "waterConsumption": 8400,
+        "pool": {
+            "pool1": "Амазонка"
+        },
+        "countries": {
+            "country1": "Бразилия",
+            "country2": "Перу"
+        }
+    },
+    {
+        "river": "Мадейра — Маморе",
+        "length": 3352,
+        "poolArea": 850000,
+        "waterConsumption": 17000,
+        "pool": {
+            "pool1": "Амазонка"
+        },
+        "countries": {
+            "country1": "Бразилия",
+            "country2": "Боливия",
+            "country3": "Перу"
+        }
+    },
+    {
+        "river": "Салуин(Ну-Цзян)",
+        "length": 3200,
+        "poolArea": 324000,
+        "waterConsumption": 3153,
+        "pool": {
+            "pool1": "Андаманское море"
+        },
+        "countries": {
+            "country1": "КНР",
+            "country2": "Мьянма",
+            "country3": "Таиланд"
+        }
+    },
+    {
+        "river": "Инд",
+        "length": 3180,
+        "poolArea": 960000,
+        "waterConsumption": 7160,
+        "pool": {
+            "pool1": "Аравийское море"
+        },
+        "countries": {
+            "country1": "Пакистан",
+            "country2": "Индия",
+            "country3": "КНР",
+            "country4": "спорные территории Кашмир",
+            "country5": "Афганистан"
+        }
+    },
+    {
+        "river": "Сан-Франсиску",
+        "length": 3180,
+        "poolArea": 610000,
+        "waterConsumption": 3300,
+        "pool": {
+            "pool1": "Атлантический океан"
+        },
+        "countries": {
+            "country1": "Бразилия"
+        }
+    },
+    {
+        "river": "Сырдарья — Нарын",
+        "length": 3078,
+        "poolArea": 219000,
+        "waterConsumption": 703,
+        "pool": {
+            "pool1": "Аральское море"
+        },
+        "countries": {
+            "country1": "Казахстан",
+            "country2": "Киргизия",
+            "country3": "Узбекистан",
+            "country4": "Таджикистан"
+        }
+    },
+    {
+        "river": "Рио-Гранде",
+        "length": 3060,
+        "poolArea": 805000,
+        "waterConsumption": 160,
+        "pool": {
+            "pool1": "Мексиканский залив"
+        },
+        "countries": {
+            "country1": "США",
+            "country2": "Мексика"
+        }
+    },
+    {
+        "river": "Река Святого Лаврентия — Ниагара — Детройт — Сент-Клер — Сент-Мэрис — Сент-Луис",
+        "length": 3058,
+        "poolArea": 1030000,
+        "waterConsumption": 10100,
+        "pool": {
+            "pool1": "Залив Святого Лаврентия"
+        },
+        "countries": {
+            "country1": "Канада",
+            "country2": "США"
+        }
+    },
+    {
+        "river": "Нижняя Тунгуска",
+        "length": 2989,
+        "poolArea": 473000,
+        "waterConsumption": 3600,
+        "pool": {
+            "pool1": "Енисей"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Брахмапутра",
+        "length": 2948,
+        "poolArea": 1730000,
+        "waterConsumption": 19200,
+        "pool": {
+            "pool1": "Бенгальский залив"
+        },
+        "countries": {
+            "country1": "Индия",
+            "country2": "КНР",
+            "country3": "Непал",
+            "country4": "Бангладеш",
+            "country5": "спорные территории Индия/КНР",
+            "country6": "Бутан"
+        }
+    },
+    {
+        "river": "Дунай — Брег",
+        "length": 2850,
+        "poolArea": 817000,
+        "waterConsumption": 7130,
+        "pool": {
+            "pool1": "Чёрное море"
+        },
+        "countries": {
+            "country1": "Румыния",
+            "country2": "Венгрия",
+            "country3": "Австрия",
+            "country4": "Сербия",
+            "country5": "Германия",
+            "country6": "Словакия",
+            "country7": "Болгария",
+            "country8": "Босния и Герцеговина",
+            "country9": "Хорватия",
+            "country10": "Украина",
+            "country11": "Молдавия"
+        }
+    },
+    {
+        "river": "Ориноко",
+        "length": 2740,
+        "poolArea": 948,
+        "waterConsumption": 33000,
+        "pool": {
+            "pool1": "Атлантический океан"
+        },
+        "countries": {
+            "country1": "Венесуэла",
+            "country2": "Колумбия",
+            "country3": "Гайана"
+        }
+    },
+    {
+        "river": "Токантинс",
+        "length": 2699,
+        "poolArea": 1400000,
+        "waterConsumption": 13598,
+        "pool": {
+            "pool1": "Атлантический океан",
+            "pool2": "Амазонка"
+        },
+        "countries": {
+            "country1": "Бразилия"
+        }
+    },
+    {
+        "river": "Замбези",
+        "length": 2693,
+        "poolArea": 1330000,
+        "waterConsumption": 4880,
+        "pool": {
+            "pool1": "Мозамбикский пролив"
+        },
+        "countries": {
+            "country1": "Замбия",
+            "country2": "Ангола",
+            "country3": "Зимбабве",
+            "country4": "Мозамбик",
+            "country5": "Малави",
+            "country6": "Танзания",
+            "country7": "Намибия",
+            "country8": "Ботсвана"
+        }
+    },
+    {
+        "river": "Вилюй",
+        "length": 2650,
+        "poolArea": 454000,
+        "waterConsumption": 1480,
+        "pool": {
+            "pool1": "Лена"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Арагуая",
+        "length": 2627,
+        "poolArea": 358125,
+        "waterConsumption": 6172,
+        "pool": {
+            "pool1": "Токантинс"
+        },
+        "countries": {
+            "country1": "Бразилия"
+        }
+    },
+    {
+        "river": "Амударья — Пяндж — Памир",
+        "length": 2620,
+        "poolArea": 534739,
+        "waterConsumption": 1400,
+        "pool": {
+            "pool1": "Аральское море"
+        },
+        "countries": {
+            "country1": "Узбекистан",
+            "country2": "Туркменистан",
+            "country3": "Таджикистан",
+            "country4": "Афганистан"
+        }
+    },
+    {
+        "river": "Жапура(Какета)",
+        "length": 2615,
+        "poolArea": 242259,
+        "waterConsumption": 6000,
+        "pool": {
+            "pool1": "Амазонка"
+        },
+        "countries": {
+            "country1": "Бразилия",
+            "country2": "Колумбия"
+        }
+    },
+    {
+        "river": "Нельсон — Саскачеван",
+        "length": 2570,
+        "poolArea": 1093000,
+        "waterConsumption": 2575,
+        "pool": {
+            "pool1": "Гудзонов залив"
+        },
+        "countries": {
+            "country1": "Канада",
+            "country2": "США"
+        }
+    },
+    {
+        "river": "Парагвай",
+        "length": 2549,
+        "poolArea": 900000,
+        "waterConsumption": 4300,
+        "pool": {
+            "pool1": "Парана"
+        },
+        "countries": {
+            "country1": "Бразилия",
+            "country2": "Парагвай",
+            "country3": "Боливия",
+            "country4": "Аргентина"
+        }
+    },
+    {
+        "river": "Колыма",
+        "length": 2513,
+        "poolArea": 644000,
+        "waterConsumption": 3800,
+        "pool": {
+            "pool1": "Восточно-Сибирское море"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Ганг",
+        "length": 2510,
+        "poolArea": 907000,
+        "waterConsumption": 12037,
+        "pool": {
+            "pool1": "Брахмапутра Бенгальский залив"
+        },
+        "countries": {
+            "country1": "Индия",
+            "country2": "Бангладеш",
+            "country3": "Непал"
+        }
+    },
+    {
+        "river": "Пилькомайо",
+        "length": 2500,
+        "poolArea": 270000,
+        "waterConsumption": 1400,
+        "pool": {
+            "pool1": "Парагвай"
+        },
+        "countries": {
+            "country1": "Парагвай",
+            "country2": "Аргентина",
+            "country3": "Боливия"
+        }
+    },
+    {
+        "river": "Ишим",
+        "length": 2450,
+        "poolArea": 177000,
+        "waterConsumption": 56,
+        "pool": {
+            "pool1": "Иртыш"
+        },
+        "countries": {
+            "country1": "Казахстан",
+            "country2": "Россия"
+        }
+    },
+    {
+        "river": "Журуа",
+        "length": 2410,
+        "poolArea": 200000,
+        "waterConsumption": 6000,
+        "pool": {
+            "pool1": "Амазонка"
+        },
+        "countries": {
+            "country1": "Перу",
+            "country2": "Бразилия"
+        }
+    },
+    {
+        "river": "Урал",
+        "length": 2428,
+        "poolArea": 237000,
+        "waterConsumption": 475,
+        "pool": {
+            "pool1": "Каспийское море"
+        },
+        "countries": {
+            "country1": "Россия",
+            "country2": "Казахстан"
+        }
+    },
+    {
+        "river": "Арканзас",
+        "length": 2348,
+        "poolArea": 505000,
+        "waterConsumption": 1066,
+        "pool": {
+            "pool1": "Миссисипи"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Колорадо",
+        "length": 2333,
+        "poolArea": 390000,
+        "waterConsumption": 1200,
+        "pool": {
+            "pool1": "Калифорнийский залив"
+        },
+        "countries": {
+            "country1": "США",
+            "country2": "Мексика"
+        }
+    },
+    {
+        "river": "Убанги — Уэле",
+        "length": 2300,
+        "poolArea": 772800,
+        "waterConsumption": 4003,
+        "pool": {
+            "pool1": "Конго"
+        },
+        "countries": {
+            "country1": "ДРК",
+            "country2": "ЦАР"
+        }
+    },
+    {
+        "river": "Оленёк",
+        "length": 2292,
+        "poolArea": 219000,
+        "waterConsumption": 1210,
+        "pool": {
+            "pool1": "море Лаптевых"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Днепр",
+        "length": 2287,
+        "poolArea": 516300,
+        "waterConsumption": 1670,
+        "pool": {
+            "pool1": "Чёрное море"
+        },
+        "countries": {
+            "country1": "Россия",
+            "country2": "Белоруссия",
+            "country3": "Украина"
+        }
+    },
+    {
+        "river": "Алдан",
+        "length": 2273,
+        "poolArea": 729000,
+        "waterConsumption": 5060,
+        "pool": {
+            "pool1": "Лена"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Риу-Негру",
+        "length": 2250,
+        "poolArea": 720114,
+        "waterConsumption": 26700,
+        "pool": {
+            "pool1": "Амазонка"
+        },
+        "countries": {
+            "country1": "Бразилия",
+            "country2": "Венесуэла",
+            "country3": "Колумбия"
+        }
+    },
+    {
+        "river": "Колумбия",
+        "length": 2250,
+        "poolArea": 415211,
+        "waterConsumption": 7500,
+        "pool": {
+            "pool1": "Тихий океан"
+        },
+        "countries": {
+            "country1": "США",
+            "country2": "Канада"
+        }
+    },
+    {
+        "river": "Чжуцзян — Сицзян",
+        "length": 2200,
+        "poolArea": 437000,
+        "waterConsumption": 13600,
+        "pool": {
+            "pool1": "Южно-Китайское море"
+        },
+        "countries": {
+            "country1": "КНР",
+            "country2": "Вьетнам"
+        }
+    },
+    {
+        "river": "Южная Ред-Ривер",
+        "length": 2188,
+        "poolArea": 78592,
+        "waterConsumption": 875,
+        "pool": {
+            "pool1": "Миссисипи"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Иравади",
+        "length": 2170,
+        "poolArea": 411000,
+        "waterConsumption": 13000,
+        "pool": {
+            "pool1": "Андаманское море"
+        },
+        "countries": {
+            "country1": "Мьянма"
+        }
+    },
+    {
+        "river": "Кассаи",
+        "length": 2153,
+        "poolArea": 880200,
+        "waterConsumption": 10000,
+        "pool": {
+            "pool1": "Конго"
+        },
+        "countries": {
+            "country1": "Ангола",
+            "country2": "ДРК"
+        }
+    },
+    {
+        "river": "Огайо — Аллегейни",
+        "length": 2102,
+        "poolArea": 490603,
+        "waterConsumption": 7957,
+        "pool": {
+            "pool1": "Миссисипи"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Тарим",
+        "length": 2100,
+        "poolArea": 557000,
+        "waterConsumption": 900,
+        "pool": {
+            "pool1": "Лоб-Нор"
+        },
+        "countries": {
+            "country1": "КНР"
+        }
+    },
+    {
+        "river": "Шингу",
+        "length": 2100,
+        "poolArea": 513000,
+        "waterConsumption": 8670,
+        "pool": {
+            "pool1": "Амазонка"
+        },
+        "countries": {
+            "country1": "Бразилия"
+        }
+    },
+    {
+        "river": "Оранжевая",
+        "length": 2092,
+        "poolArea": 973000,
+        "waterConsumption": 800,
+        "pool": {
+            "pool1": "Атлантический океан"
+        },
+        "countries": {
+            "country1": "ЮАР",
+            "country2": "Намибия",
+            "country3": "Ботсвана",
+            "country4": "Лесото"
+        }
+    },
+    {
+        "river": "Кама",
+        "length": 2039,
+        "poolArea": 522000,
+        "waterConsumption": 4300,
+        "pool": {
+            "pool1": "Волга"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Саладо (приток Параны)",
+        "length": 2010,
+        "poolArea": 160000,
+        "waterConsumption": 15,
+        "pool": {
+            "pool1": "Парана"
+        },
+        "countries": {
+            "country1": "Аргентина"
+        }
+    },
+    {
+        "river": "Витим",
+        "length": 1978,
+        "poolArea": 225000,
+        "waterConsumption": 1520,
+        "pool": {
+            "pool1": "Лена"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Тигр",
+        "length": 1950,
+        "poolArea": 375000,
+        "waterConsumption": 1000,
+        "pool": {
+            "pool1": "Шатт-эль-Араб"
+        },
+        "countries": {
+            "country1": "Турция",
+            "country2": "Ирак",
+            "country3": "Сирия",
+            "country4": "Иран"
+        }
+    },
+    {
+        "river": "Сунгари",
+        "length": 1927,
+        "poolArea": 524000,
+        "waterConsumption": 2500,
+        "pool": {
+            "pool1": "Амур"
+        },
+        "countries": {
+            "country1": "КНР"
+        }
+    },
+    {
+        "river": "Тапажос",
+        "length": 1900,
+        "poolArea": 487000,
+        "waterConsumption": 15000,
+        "pool": {
+            "pool1": "Амазонка"
+        },
+        "countries": {
+            "country1": "Бразилия"
+        }
+    },
+    {
+        "river": "Дон",
+        "length": 1870,
+        "poolArea": 425600,
+        "waterConsumption": 935,
+        "pool": {
+            "pool1": "Азовское море"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Подкаменная Тунгуска",
+        "length": 1865,
+        "poolArea": 240000,
+        "waterConsumption": 1590,
+        "pool": {
+            "pool1": "Енисей"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Печора",
+        "length": 1809,
+        "poolArea": 322000,
+        "waterConsumption": 4100,
+        "pool": {
+            "pool1": "Баренцево море"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Лимпопо",
+        "length": 1800,
+        "poolArea": 413000,
+        "waterConsumption": 170,
+        "pool": {
+            "pool1": "Индийский океан"
+        },
+        "countries": {
+            "country1": "Мозамбик",
+            "country2": "Зимбабве",
+            "country3": "ЮАР",
+            "country4": "Ботсвана"
+        }
+    },
+    {
+        "river": "Чулым",
+        "length": 1799,
+        "poolArea": 134000,
+        "waterConsumption": 785,
+        "pool": {
+            "pool1": "Обь"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Гуапоре",
+        "length": 1749,
+        "poolArea": 266500,
+        "waterConsumption": 1530,
+        "pool": {
+            "pool1": "Маморе"
+        },
+        "countries": {
+            "country1": "Бразилия",
+            "country2": "Боливия"
+        }
+    },
+    {
+        "river": "Мараньон",
+        "length": 1737,
+        "poolArea": 358000,
+        "waterConsumption": 16700,
+        "pool": {
+            "pool1": "Амазонка"
+        },
+        "countries": {
+            "country1": "Перу"
+        }
+    },
+    {
+        "river": "Индигирка",
+        "length": 1726,
+        "poolArea": 360400,
+        "waterConsumption": 1810,
+        "pool": {
+            "pool1": "Восточно-Сибирское море"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Снейк",
+        "length": 1670,
+        "poolArea": 279719,
+        "waterConsumption": 1611,
+        "pool": {
+            "pool1": "Колумбия"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Сенегал",
+        "length": 1641,
+        "poolArea": 419659,
+        "waterConsumption": 670,
+        "pool": {
+            "pool1": "Атлантический океан"
+        },
+        "countries": {
+            "country1": "Сенегал",
+            "country2": "Мали",
+            "country3": "Мавритания"
+        }
+    },
+    {
+        "river": "Кеть",
+        "length": 1621,
+        "poolArea": 94200,
+        "waterConsumption": 560,
+        "pool": {
+            "pool1": "Обь"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Уругвай",
+        "length": 1610,
+        "poolArea": 370000,
+        "waterConsumption": 5500,
+        "pool": {
+            "pool1": "Атлантический океан"
+        },
+        "countries": {
+            "country1": "Уругвай",
+            "country2": "Аргентина",
+            "country3": "Бразилия"
+        }
+    },
+    {
+        "river": "Голубой Нил",
+        "length": 1600,
+        "poolArea": 325000,
+        "waterConsumption": 2350,
+        "pool": {
+            "pool1": "Нил"
+        },
+        "countries": {
+            "country1": "Эфиопия",
+            "country2": "Судан"
+        }
+    },
+    {
+        "river": "Черчилл",
+        "length": 1600,
+        "poolArea": 282000,
+        "waterConsumption": 1200,
+        "pool": {
+            "pool1": "Гудзонов залив"
+        },
+        "countries": {
+            "country1": "Канада"
+        }
+    },
+    {
+        "river": "Хатанга — Котуй",
+        "length": 1636,
+        "poolArea": 364000,
+        "waterConsumption": 3320,
+        "pool": {
+            "pool1": "море Лаптевых"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Окаванго",
+        "length": 1600,
+        "poolArea": 800000,
+        "waterConsumption": 475,
+        "pool": {
+            "pool1": "дельта Окаванго"
+        },
+        "countries": {
+            "country1": "Намибия",
+            "country2": "Ангола",
+            "country3": "Ботсвана"
+        }
+    },
+    {
+        "river": "Вольта",
+        "length": 1600,
+        "poolArea": 388000,
+        "waterConsumption": 1290,
+        "pool": {
+            "pool1": "Гвинейский залив"
+        },
+        "countries": {
+            "country1": "Гана",
+            "country2": "Буркина-Фасо",
+            "country3": "Того",
+            "country4": "Кот-д’Ивуар",
+            "country5": "Бенин"
+        }
+    },
+    {
+        "river": "Бени",
+        "length": 1619,
+        "poolArea": 133010,
+        "waterConsumption": 11850,
+        "pool": {
+            "pool1": "Маморе"
+        },
+        "countries": {
+            "country1": "Боливия"
+        }
+    },
+    {
+        "river": "Платт",
+        "length": 1594,
+        "poolArea": 241000,
+        "waterConsumption": 150,
+        "pool": {
+            "pool1": "Миссури"
+        },
+        "countries": {}
+    },
+    {
+        "river": "Шилка — Онон",
+        "length": 1592,
+        "poolArea": 206000,
+        "waterConsumption": 550,
+        "pool": {
+            "pool1": "Амур"
+        },
+        "countries": {
+            "country1": "Монголия",
+            "country2": "Россия"
+        }
+    },
+    {
+        "river": "Тобол",
+        "length": 1591,
+        "poolArea": 426000,
+        "waterConsumption": 805,
+        "pool": {
+            "pool1": "Иртыш"
+        },
+        "countries": {
+            "country1": "Казахстан",
+            "country2": "Россия"
+        }
+    },
+    {
+        "river": "Алазея",
+        "length": 1590,
+        "poolArea": 64700,
+        "waterConsumption": 320,
+        "pool": {
+            "pool1": "Восточно-Сибирское море"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Апуре",
+        "length": 1581,
+        "poolArea": 147000,
+        "waterConsumption": 2000,
+        "pool": {
+            "pool1": "Ориноко"
+        },
+        "countries": {
+            "country1": "Венесуэла"
+        }
+    },
+    {
+        "river": "Джубба — Веби-Шебели",
+        "length": 1580,
+        "poolArea": 497504,
+        "waterConsumption": 127,
+        "pool": {
+            "pool1": "Индийский океан"
+        },
+        "countries": {
+            "country1": "Эфиопия",
+            "country2": "Сомали"
+        }
+    },
+    {
+        "river": "Кафуэ",
+        "length": 1577,
+        "poolArea": 154829,
+        "waterConsumption": 314,
+        "pool": {
+            "pool1": "Замбези"
+        },
+        "countries": {
+            "country1": "Замбия"
+        }
+    },
+    {
+        "river": "Путумайо",
+        "length": 1575,
+        "poolArea": 148000,
+        "waterConsumption": 8760,
+        "pool": {
+            "pool1": "Амазонка"
+        },
+        "countries": {
+            "country1": "Бразилия",
+            "country2": "Перу",
+            "country3": "Колумбия",
+            "country4": "Эквадор"
+        }
+    },
+    {
+        "river": "Уорбертон — Джорджина",
+        "length": 1560,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Озеро Эйр"
+        },
+        "countries": {
+            "country1": "Австралия"
+        }
+    },
+    {
+        "river": "Магдалена",
+        "length": 1550,
+        "poolArea": 260000,
+        "waterConsumption": 9000,
+        "pool": {
+            "pool1": "Карибское море"
+        },
+        "countries": {
+            "country1": "Колумбия"
+        }
+    },
+    {
+        "river": "Яна — Адыча — Нельгесе",
+        "length": 1537,
+        "poolArea": 238000,
+        "waterConsumption": 1021,
+        "pool": {
+            "pool1": "Море Лаптевых"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Ханьшуй",
+        "length": 1532,
+        "poolArea": 175000,
+        "waterConsumption": 2000,
+        "pool": {
+            "pool1": "Янцзы"
+        },
+        "countries": {
+            "country1": "КНР"
+        }
+    },
+    {
+        "river": "Ломами",
+        "length": 1500,
+        "poolArea": 95830,
+        "waterConsumption": 837,
+        "pool": {
+            "pool1": "Конго"
+        },
+        "countries": {
+            "country1": "ДРК"
+        }
+    },
+    {
+        "river": "Ока",
+        "length": 1500,
+        "poolArea": 245000,
+        "waterConsumption": 1300,
+        "pool": {
+            "pool1": "Волга"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Пекос",
+        "length": 1490,
+        "poolArea": 115000,
+        "waterConsumption": 8,
+        "pool": {
+            "pool1": "Рио-Гранде"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Маррамбиджи",
+        "length": 1485,
+        "poolArea": 181630,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Муррей"
+        },
+        "countries": {
+            "country1": "Австралия"
+        }
+    },
+    {
+        "river": "Годавари",
+        "length": 1465,
+        "poolArea": 313000,
+        "waterConsumption": 3038,
+        "pool": {
+            "pool1": "Бенгальский залив"
+        },
+        "countries": {
+            "country1": "Индия"
+        }
+    },
+    {
+        "river": "Амга",
+        "length": 1462,
+        "poolArea": 69300,
+        "waterConsumption": 178,
+        "pool": {
+            "pool1": "Алдан"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Или — Текес",
+        "length": 1439,
+        "poolArea": 140000,
+        "waterConsumption": 480,
+        "pool": {
+            "pool1": "Озеро Балхаш"
+        },
+        "countries": {
+            "country1": "Казахстан",
+            "country2": "Китай"
+        }
+    },
+    {
+        "river": "Рио-Гранде",
+        "length": 1438,
+        "poolArea": 102600,
+        "waterConsumption": 2300,
+        "pool": {
+            "pool1": "Маморе"
+        },
+        "countries": {
+            "country1": "Боливия"
+        }
+    },
+    {
+        "river": "Олёкма",
+        "length": 1436,
+        "poolArea": 210000,
+        "waterConsumption": 1950,
+        "pool": {
+            "pool1": "Лена"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Белая",
+        "length": 1430,
+        "poolArea": 142000,
+        "waterConsumption": 950,
+        "pool": {
+            "pool1": "Кама"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Марха — Моркока",
+        "length": 1426,
+        "poolArea": 99000,
+        "waterConsumption": 405,
+        "pool": {
+            "pool1": "Вилюй"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Куперс-Крик — Барку",
+        "length": 1420,
+        "poolArea": 297550,
+        "waterConsumption": 73,
+        "pool": {
+            "pool1": "озеро Эйр"
+        },
+        "countries": {
+            "country1": "Австралия"
+        }
+    },
+    {
+        "river": "Таз",
+        "length": 1401,
+        "poolArea": 150000,
+        "waterConsumption": 930,
+        "pool": {
+            "pool1": "Тазовская губа"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Бенуэ",
+        "length": 1400,
+        "poolArea": 441000,
+        "waterConsumption": 3170,
+        "pool": {
+            "pool1": "Нигер"
+        },
+        "countries": {
+            "country1": "Камерун",
+            "country2": "Нигерия"
+        }
+    },
+    {
+        "river": "Колорадо",
+        "length": 1387,
+        "poolArea": 103341,
+        "waterConsumption": 181,
+        "pool": {
+            "pool1": "Мексиканский залив"
+        },
+        "countries": {
+            "country1": "США",
+            "country2": "Техас"
+        }
+    },
+    {
+        "river": "Уоррего",
+        "length": 1381,
+        "poolArea": 69300,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Дарлинг"
+        },
+        "countries": {
+            "country1": "Австралия"
+        }
+    },
+    {
+        "river": "Сатледж",
+        "length": 1372,
+        "poolArea": 395000,
+        "waterConsumption": 530,
+        "pool": {
+            "pool1": "Инд"
+        },
+        "countries": {
+            "country1": "КНР",
+            "country2": "Индия",
+            "country3": "Пакистан"
+        }
+    },
+    {
+        "river": "Ямуна",
+        "length": 1370,
+        "poolArea": 351000,
+        "waterConsumption": 3480,
+        "pool": {
+            "pool1": "Ганг"
+        },
+        "countries": {
+            "country1": "Индия"
+        }
+    },
+    {
+        "river": "Вятка",
+        "length": 1370,
+        "poolArea": 129000,
+        "waterConsumption": 900,
+        "pool": {
+            "pool1": "Кама"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Фрейзер",
+        "length": 1368,
+        "poolArea": 233100,
+        "waterConsumption": 3475,
+        "pool": {
+            "pool1": "Тихий океан"
+        },
+        "countries": {
+            "country1": "Канада"
+        }
+    },
+    {
+        "river": "Кура",
+        "length": 1364,
+        "poolArea": 188000,
+        "waterConsumption": 575,
+        "pool": {
+            "pool1": "Каспийское море"
+        },
+        "countries": {
+            "country1": "Азербайджан",
+            "country2": "Грузия",
+            "country3": "Армения",
+            "country4": "Турция",
+            "country5": "Иран"
+        }
+    },
+    {
+        "river": "Рио-Гранде",
+        "length": 1360,
+        "poolArea": 170000,
+        "waterConsumption": 2000,
+        "pool": {
+            "pool1": "Парана"
+        },
+        "countries": {
+            "country1": "Бразилия"
+        }
+    },
+    {
+        "river": "Тавда — Лозьва",
+        "length": 1356,
+        "poolArea": 88100,
+        "waterConsumption": 462,
+        "pool": {
+            "pool1": "Тобол"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Бразос",
+        "length": 1352,
+        "poolArea": 116000,
+        "waterConsumption": 840,
+        "pool": {
+            "pool1": "Мексиканский залив"
+        },
+        "countries": {
+            "country1": "США",
+            "country2": "Техас"
+        }
+    },
+    {
+        "river": "Днестр",
+        "length": 1352,
+        "poolArea": 72100,
+        "waterConsumption": 310,
+        "pool": {
+            "pool1": "Чёрное Море"
+        },
+        "countries": {
+            "country1": "Украина",
+            "country2": "Молдова"
+        }
+    },
+    {
+        "river": "Каука",
+        "length": 1350,
+        "poolArea": 80000,
+        "waterConsumption": 2000,
+        "pool": {
+            "pool1": "Магдалена"
+        },
+        "countries": {
+            "country1": "Колумбия"
+        }
+    },
+    {
+        "river": "Ляохэ",
+        "length": 1345,
+        "poolArea": 228960,
+        "waterConsumption": 302,
+        "pool": {
+            "pool1": "Бохайский залив"
+        },
+        "countries": {
+            "country1": "КНР"
+        }
+    },
+    {
+        "river": "Локлан",
+        "length": 1339,
+        "poolArea": 90892,
+        "waterConsumption": 41,
+        "pool": {
+            "pool1": "Маррамбиджи"
+        },
+        "countries": {
+            "country1": "Австралия"
+        }
+    },
+    {
+        "river": "Ялунцзян",
+        "length": 1323,
+        "poolArea": 30000,
+        "waterConsumption": 1040,
+        "pool": {
+            "pool1": "Янцзы"
+        },
+        "countries": {
+            "country1": "КНР"
+        }
+    },
+    {
+        "river": "Игуасу",
+        "length": 1320,
+        "poolArea": 62000,
+        "waterConsumption": 1400,
+        "pool": {
+            "pool1": "Парана"
+        },
+        "countries": {
+            "country1": "Бразилия",
+            "country2": "Аргентина"
+        }
+    },
+    {
+        "river": "Тасеева — Уда (Чуна)",
+        "length": 1319,
+        "poolArea": 128000,
+        "waterConsumption": 752,
+        "pool": {
+            "pool1": "Ангара"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Северная Двина — Сухона",
+        "length": 1310,
+        "poolArea": 357052,
+        "waterConsumption": 3332,
+        "pool": {
+            "pool1": "Белое море"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Араука",
+        "length": 1300,
+        "poolArea": 18000,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Ориноко"
+        },
+        "countries": {
+            "country1": "Венесуэла"
+        }
+    },
+    {
+        "river": "Арувими",
+        "length": 1300,
+        "poolArea": 116100,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Конго"
+        },
+        "countries": {
+            "country1": "ДР Конго"
+        }
+    },
+    {
+        "river": "Кришна",
+        "length": 1300,
+        "poolArea": 258950,
+        "waterConsumption": 1642,
+        "pool": {
+            "pool1": "Бенгальский залив"
+        },
+        "countries": {
+            "country1": "Индия"
+        }
+    },
+    {
+        "river": "Ирири",
+        "length": 1300,
+        "poolArea": 124300,
+        "waterConsumption": 2780,
+        "pool": {
+            "pool1": "Шингу"
+        },
+        "countries": {
+            "country1": "Бразилия"
+        }
+    },
+    {
+        "river": "Санга — Кадеи",
+        "length": 1300,
+        "poolArea": 152000,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Конго"
+        },
+        "countries": {
+            "country1": "Камерун",
+            "country2": "Республика Конго",
+            "country3": "ЦАР"
+        }
+    },
+    {
+        "river": "Нармада",
+        "length": 1289,
+        "poolArea": 98796,
+        "waterConsumption": 1450,
+        "pool": {
+            "pool1": "Аравийское море"
+        },
+        "countries": {
+            "country1": "Индия"
+        }
+    },
+    {
+        "river": "Оттава",
+        "length": 1271,
+        "poolArea": 146300,
+        "waterConsumption": 1950,
+        "pool": {
+            "pool1": "река Святого Лаврентия"
+        },
+        "countries": {
+            "country1": "Канада"
+        }
+    },
+    {
+        "river": "Эльба — Влтава",
+        "length": 1252,
+        "poolArea": 148268,
+        "waterConsumption": 711,
+        "pool": {
+            "pool1": "Северное море"
+        },
+        "countries": {
+            "country1": "Германия",
+            "country2": "Чехия"
+        }
+    },
+    {
+        "river": "Зея",
+        "length": 1242,
+        "poolArea": 233000,
+        "waterConsumption": 2700,
+        "pool": {
+            "pool1": "Амур"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Журуэна",
+        "length": 1240,
+        "poolArea": 190940,
+        "waterConsumption": 4360,
+        "pool": {
+            "pool1": "Тапажос"
+        },
+        "countries": {
+            "country1": "Бразилия"
+        }
+    },
+    {
+        "river": "Рейн",
+        "length": 1233,
+        "poolArea": 185000,
+        "waterConsumption": 2330,
+        "pool": {
+            "pool1": "Северное море"
+        },
+        "countries": {
+            "country1": "Германия",
+            "country2": "Франция",
+            "country3": "Швейцария",
+            "country4": "Нидерланды",
+            "country5": "Австрия",
+            "country6": "Лихтенштейн"
+        }
+    },
+    {
+        "river": "Атабаска",
+        "length": 1231,
+        "poolArea": 95300,
+        "waterConsumption": 783,
+        "pool": {
+            "pool1": "Маккензи"
+        },
+        "countries": {
+            "country1": "Канада"
+        }
+    },
+    {
+        "river": "Канейдиан-Ривер",
+        "length": 1223,
+        "poolArea": 124000,
+        "waterConsumption": 200,
+        "pool": {
+            "pool1": "Арканзас"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Северный Саскачеван",
+        "length": 1220,
+        "poolArea": 122800,
+        "waterConsumption": 245,
+        "pool": {
+            "pool1": "Саскачеван"
+        },
+        "countries": {
+            "country1": "Канада"
+        }
+    },
+    {
+        "river": "Канзас — Арикэри",
+        "length": 1218,
+        "poolArea": 156000,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Миссури"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Вааль",
+        "length": 1210,
+        "poolArea": 196438,
+        "waterConsumption": 125,
+        "pool": {
+            "pool1": "Оранжевая"
+        },
+        "countries": {
+            "country1": "ЮАР"
+        }
+    },
+    {
+        "river": "Пару",
+        "length": 1210,
+        "poolArea": 61000,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Дарлинг"
+        },
+        "countries": {
+            "country1": "Австралия"
+        }
+    },
+    {
+        "river": "Кунене",
+        "length": 1207,
+        "poolArea": 109832,
+        "waterConsumption": 174,
+        "pool": {
+            "pool1": "Атлантический океан"
+        },
+        "countries": {
+            "country1": "Ангола",
+            "country2": "Намибия"
+        }
+    },
+    {
+        "river": "Огове",
+        "length": 1200,
+        "poolArea": 223856,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Гвинейский залив"
+        },
+        "countries": {
+            "country1": "Республика Конго",
+            "country2": "Габон"
+        }
+    },
+    {
+        "river": "Шире",
+        "length": 1200,
+        "poolArea": 149500,
+        "waterConsumption": 486,
+        "pool": {
+            "pool1": "Замбези"
+        },
+        "countries": {
+            "country1": "Мозамбик",
+            "country2": "Малави"
+        }
+    },
+    {
+        "river": "Нэньцзян",
+        "length": 1190,
+        "poolArea": 244000,
+        "waterConsumption": 880,
+        "pool": {
+            "pool1": "Сунгари"
+        },
+        "countries": {
+            "country1": "КНР"
+        }
+    },
+    {
+        "river": "Грин-Ривер",
+        "length": 1175,
+        "poolArea": 124578,
+        "waterConsumption": 173,
+        "pool": {
+            "pool1": "Колорадо"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Милк-Ривер",
+        "length": 1173,
+        "poolArea": 61642,
+        "waterConsumption": 17,
+        "pool": {
+            "pool1": "Миссури"
+        },
+        "countries": {
+            "country1": "США",
+            "country2": "Канада"
+        }
+    },
+    {
+        "river": "Демьянка",
+        "length": 1160,
+        "poolArea": 34,
+        "waterConsumption": 156,
+        "pool": {
+            "pool1": "Иртыш"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Чиндуин",
+        "length": 1158,
+        "poolArea": 114000,
+        "waterConsumption": 4000,
+        "pool": {
+            "pool1": "Иравади"
+        },
+        "countries": {
+            "country1": "Мьянма"
+        }
+    },
+    {
+        "river": "Кызылырмак (Галис)",
+        "length": 1151,
+        "poolArea": 77130,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Чёрное море"
+        },
+        "countries": {
+            "country1": "Турция"
+        }
+    },
+    {
+        "river": "Санкуру",
+        "length": 1150,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Кассаи"
+        },
+        "countries": {
+            "country1": "ДРК"
+        }
+    },
+    {
+        "river": "Омолон",
+        "length": 1150,
+        "poolArea": 119000,
+        "waterConsumption": 680,
+        "pool": {
+            "pool1": "Колыма"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Джеймс",
+        "length": 1143,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Миссури"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Капуас",
+        "length": 1143,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Южно-Китайское море"
+        },
+        "countries": {
+            "country1": "Индонезия"
+        }
+    },
+    {
+        "river": "Рио-Негро — Лимай",
+        "length": 1135,
+        "poolArea": 132275,
+        "waterConsumption": 1014,
+        "pool": {
+            "pool1": "Атлантический океан"
+        },
+        "countries": {
+            "country1": "Аргентина"
+        }
+    },
+    {
+        "river": "Десна",
+        "length": 1130,
+        "poolArea": 88900,
+        "waterConsumption": 360,
+        "pool": {
+            "pool1": "Днепр"
+        },
+        "countries": {
+            "country1": "Россия",
+            "country2": "Украина"
+        }
+    },
+    {
+        "river": "Гильменд",
+        "length": 1130,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Хамун"
+        },
+        "countries": {
+            "country1": "Афганистан",
+            "country2": "Иран"
+        }
+    },
+    {
+        "river": "Мадре-де-Диос(Амарумаю)",
+        "length": 1130,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Мадейра"
+        },
+        "countries": {
+            "country1": "Перу",
+            "country2": "Боливия"
+        }
+    },
+    {
+        "river": "Тьете",
+        "length": 1130,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Парана"
+        },
+        "countries": {
+            "country1": "Бразилия"
+        }
+    },
+    {
+        "river": "Вычегда",
+        "length": 1130,
+        "poolArea": 121000,
+        "waterConsumption": 1160,
+        "pool": {
+            "pool1": "Северная Двина"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Омь — Ича",
+        "length": 1129,
+        "poolArea": 526000,
+        "waterConsumption": 64,
+        "pool": {
+            "pool1": "Иртыш"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Сепик",
+        "length": 1126,
+        "poolArea": 77700,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Тихий океан"
+        },
+        "countries": {
+            "country1": "Папуа-Новая Гвинея",
+            "country2": "Индонезия"
+        }
+    },
+    {
+        "river": "Симаррон",
+        "length": 1123,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Арканзас"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Анадырь",
+        "length": 1120,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Анадырский залив"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Атбара",
+        "length": 1120,
+        "poolArea": 150000,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Нил"
+        },
+        "countries": {
+            "country1": "Судан",
+            "country2": "Эфиопия"
+        }
+    },
+    {
+        "river": "Цзялинцзян",
+        "length": 1119,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Янцзы"
+        },
+        "countries": {
+            "country1": "КНР"
+        }
+    },
+    {
+        "river": "Лиард",
+        "length": 1115,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Маккензи"
+        },
+        "countries": {
+            "country1": "Канада"
+        }
+    },
+    {
+        "river": "Камберленд",
+        "length": 1106,
+        "poolArea": 46830,
+        "waterConsumption": 774,
+        "pool": {
+            "pool1": "Огайо"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Уайт-Ривер",
+        "length": 1102,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Миссисипи"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Арипуанан",
+        "length": 1100,
+        "poolArea": 146300,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Мадейра"
+        },
+        "countries": {
+            "country1": "Бразилия"
+        }
+    },
+    {
+        "river": "Уальяга",
+        "length": 1100,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Мараньон"
+        },
+        "countries": {
+            "country1": "Перу"
+        }
+    },
+    {
+        "river": "Кванго",
+        "length": 1100,
+        "poolArea": 263500,
+        "waterConsumption": 2700,
+        "pool": {
+            "pool1": "Кассаи"
+        },
+        "countries": {
+            "country1": "Ангола",
+            "country2": "ДРК"
+        }
+    },
+    {
+        "river": "Конда",
+        "length": 1097,
+        "poolArea": 72800,
+        "waterConsumption": 342,
+        "pool": {
+            "pool1": "Иртыш"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Гамбия",
+        "length": 1094,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Атлантический океан"
+        },
+        "countries": {
+            "country1": "Гамбия",
+            "country2": "Сенегал",
+            "country3": "Гвинея"
+        }
+    },
+    {
+        "river": "Тюнг",
+        "length": 1092,
+        "poolArea": 49800,
+        "waterConsumption": 180,
+        "pool": {
+            "pool1": "Вилюй"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Омь",
+        "length": 1091,
+        "poolArea": 52,
+        "waterConsumption": 61,
+        "pool": {
+            "pool1": "Иртыш"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Чинаб",
+        "length": 1086,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Инд"
+        },
+        "countries": {
+            "country1": "Индия",
+            "country2": "Пакистан"
+        }
+    },
+    {
+        "river": "Васюган",
+        "length": 1082,
+        "poolArea": 62000,
+        "waterConsumption": 381,
+        "pool": {
+            "pool1": "Обь"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Йеллоустон",
+        "length": 1080,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Миссури"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Аракс",
+        "length": 1072,
+        "poolArea": 102,
+        "waterConsumption": 285,
+        "pool": {
+            "pool1": "Кура"
+        },
+        "countries": {
+            "country1": "Армения",
+            "country2": "Азербайджан",
+            "country3": "Иран",
+            "country4": "Турция"
+        }
+    },
+    {
+        "river": "Чу",
+        "length": 1067,
+        "poolArea": 62500,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "нет"
+        },
+        "countries": {
+            "country1": "Киргизия",
+            "country2": "Казахстан"
+        }
+    },
+    {
+        "river": "Большой Юган",
+        "length": 1063,
+        "poolArea": 34700,
+        "waterConsumption": 178,
+        "pool": {
+            "pool1": "Обь"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Мая",
+        "length": 1053,
+        "poolArea": 172000,
+        "waterConsumption": 1180,
+        "pool": {
+            "pool1": "Алдан"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Северский Донец",
+        "length": 1053,
+        "poolArea": 98900,
+        "waterConsumption": 160,
+        "pool": {
+            "pool1": "Дон"
+        },
+        "countries": {
+            "country1": "Украина",
+            "country2": "Россия"
+        }
+    },
+    {
+        "river": "Бермехо",
+        "length": 1050,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Парагвай"
+        },
+        "countries": {
+            "country1": "Аргентина",
+            "country2": "Боливия"
+        }
+    },
+    {
+        "river": "Флай",
+        "length": 1050,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "залив Папуа"
+        },
+        "countries": {
+            "country1": "Папуа-Новая Гвинея",
+            "country2": "Индонезия"
+        }
+    },
+    {
+        "river": "Гуавьяре",
+        "length": 1050,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Ориноко"
+        },
+        "countries": {
+            "country1": "Колумбия"
+        }
+    },
+    {
+        "river": "Кускоквим",
+        "length": 1050,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Берингово море"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Теннесси",
+        "length": 1049,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Огайо"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Тура",
+        "length": 1030,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Тобол"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Западная Двина",
+        "length": 1020,
+        "poolArea": 87,
+        "waterConsumption": 678,
+        "pool": {
+            "pool1": "Рижский залив"
+        },
+        "countries": {
+            "country1": "Латвия",
+            "country2": "Белоруссия",
+            "country3": "Россия"
+        }
+    },
+    {
+        "river": "Хила",
+        "length": 1015,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Колорадо"
+        },
+        "countries": {
+            "country1": "США"
+        }
+    },
+    {
+        "river": "Висла",
+        "length": 1014,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Балтийское море"
+        },
+        "countries": {
+            "country1": "Польша",
+            "country2": "Украина",
+            "country3": "Белоруссия"
+        }
+    },
+    {
+        "river": "Луара",
+        "length": 1012,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Атлантический океан"
+        },
+        "countries": {
+            "country1": "Франция"
+        }
+    },
+    {
+        "river": "Бирюса",
+        "length": 1012,
+        "poolArea": 55800,
+        "waterConsumption": 349,
+        "pool": {
+            "pool1": "Тасеева"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Вах — Малый Вах",
+        "length": 1011,
+        "poolArea": 76700,
+        "waterConsumption": 536,
+        "pool": {
+            "pool1": "Обь"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Эссекибо",
+        "length": 1010,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Атлантический океан"
+        },
+        "countries": {
+            "country1": "Гайана"
+        }
+    },
+    {
+        "river": "Хопёр",
+        "length": 1010,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Дон"
+        },
+        "countries": {
+            "country1": "Россия"
+        }
+    },
+    {
+        "river": "Тахо(Тежу)",
+        "length": 1006,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Атлантический океан"
+        },
+        "countries": {
+            "country1": "Испания",
+            "country2": "Португалия"
+        }
+    },
+    {
+        "river": "Флиндерс",
+        "length": 1004,
+        "poolArea": 109708,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Карпентария",
+            "pool2": "Арафурское море"
+        },
+        "countries": {
+            "country1": "Австралия"
+        }
+    },
+    {
+        "river": "Рио-Колорадо",
+        "length": 1000,
+        "poolArea": null,
+        "waterConsumption": null,
+        "pool": {
+            "pool1": "Атлантический океан"
+        },
+        "countries": {
+            "country1": "Аргентина"
+        }
+    }
+]
